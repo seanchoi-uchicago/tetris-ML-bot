@@ -110,7 +110,7 @@ python server.py
 python client.py <server-ip>
 ```
 
-## 🧠 AI Architecture
+## AI Architecture
 
 ### Custom Player Heuristics
 The AI uses a weighted combination of board evaluation metrics:
@@ -130,7 +130,7 @@ The genetic algorithm optimizes these heuristic weights through:
 - Mutation operators
 - Fitness evaluation based on game scores
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 tetris-1/
